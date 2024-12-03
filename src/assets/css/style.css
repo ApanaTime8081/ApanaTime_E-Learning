@@ -193,7 +193,8 @@
 
 .header-carousel .owl-carousel-item {
     position: relative;
-    height: 100vh;
+    /* height: 100vh; */
+    height: 55vh;
 }
 
 .header-carousel p {

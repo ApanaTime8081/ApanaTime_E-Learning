@@ -1,0 +1,26 @@
+.tabs ul li {
+    list-style-type: none;
+}
+
+.tabs ul li a {
+    font-size: 25px;
+    color: #4e4e4e !important;
+    font-weight: 500;
+}
+
+.tabs ul li a.active {
+    color: #f69050 !important;
+}
+
+.tabs ul li a:hover {
+    color: #f69050 !important;
+}
+
+#more {
+    display: none;
+}
+
+button {
+    border: none;
+    color: #f69050;
+}

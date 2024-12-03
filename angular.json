@@ -26,9 +26,9 @@
             ],
             "styles": [
               "src/assets/lib/owlcarousel/assets/owl.carousel.min.css", 
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/assets/lib/animate/animate.min.css",
               "src/assets/lib/animate/animate.css",
+              "src/assets/css/bootstrap.min.css",
               "src/assets/css/style.css"
             ],
             "scripts": [
